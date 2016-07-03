@@ -7,6 +7,8 @@ Supported is only the new syntax and the 2012 syntax for our Tweener IE10.
 So as things changed, its not only 250bytes anymore. :( Its now 1,3kb for the CSS plus 4,3kb for the modernizr...but I assume you're using modernizr allready in your projects. If not, I recommend it!
 Good thing: It doesn't change the html-syntax of the grid nor the way to setup your columns! :)
 
+**[Demo](https://dacyberpunk.github.io/dead-simple-grid/)**
+
 **ORIGINAL TEXT:**
 
 Dead Simple Grid is a responsive CSS grid micro framework/concept by [Vladimir Agafonkin](http://agafonkin.com/en) (creator of [Leaflet](http://leafletjs.com)) that is just that. Dead simple. It's the *Malevich's Black Square* of grid frameworks.
